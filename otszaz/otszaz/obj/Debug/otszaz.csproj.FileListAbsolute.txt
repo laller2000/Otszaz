@@ -1,0 +1,8 @@
+C:\Users\lalle\source\repos\otszaz\otszaz\bin\Debug\penztar.txt
+C:\Users\lalle\source\repos\otszaz\otszaz\bin\Debug\otszaz.exe.config
+C:\Users\lalle\source\repos\otszaz\otszaz\bin\Debug\otszaz.exe
+C:\Users\lalle\source\repos\otszaz\otszaz\bin\Debug\otszaz.pdb
+C:\Users\lalle\source\repos\otszaz\otszaz\obj\Debug\otszaz.csprojAssemblyReference.cache
+C:\Users\lalle\source\repos\otszaz\otszaz\obj\Debug\otszaz.csproj.CoreCompileInputs.cache
+C:\Users\lalle\source\repos\otszaz\otszaz\obj\Debug\otszaz.exe
+C:\Users\lalle\source\repos\otszaz\otszaz\obj\Debug\otszaz.pdb
